@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This project demonstrates the use of context API and use it for central state management.
+
+## When to Use Context
+Context is designed to share data that can be considered for "global" for a tree of React components, such as current authenticated user, theme or preferred language.
 
 ## Available Scripts
 
