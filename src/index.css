@@ -52,8 +52,35 @@ nav ul li {
   list-style-type: none;
 }
 
+.book-list {
+  margin: 20px;
+}
+
 .book-list li {
+  background: #6d3d6d;
   padding: 10px;
-  margin: 10px auto;
-  border-radius: 10px;
+  cursor: pointer;
+  margin: 10px 0;
+  border-radius: 4px;
+}
+
+.book-list li :hover {
+  opacity: 0.7;
+  text-decoration: line-through;
+}
+
+.book-list .title {
+  font-weight: bold;
+  color: #fff;
+  font-size: 1.2em;
+}
+
+.book-list .author {
+  font-size: 0.9em;
+  color: #ddd;
+}
+
+.empty {
+  margin: 20px;
+  text-align: center;
 }
