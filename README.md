@@ -5,6 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## When to Use Context
 Context is designed to share data that can be considered for "global" for a tree of React components, such as current authenticated user, theme or preferred language.
 
+![2023-01-09 14-35-18 2023-01-09 14_43_32](https://user-images.githubusercontent.com/52631413/211274545-dcaf6655-c551-4f15-a664-4901bef6debe.gif)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
